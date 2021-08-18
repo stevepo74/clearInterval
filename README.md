@@ -1,2 +1,2 @@
-# clearInterval
+# setInterval
 Created with CodeSandbox
