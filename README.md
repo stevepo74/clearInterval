@@ -1,0 +1,2 @@
+# clearInterval
+Created with CodeSandbox
